@@ -3,3 +3,7 @@ In Kotlin, I didnt like the solution at all, since you just need to know that th
 that felt too trvia-y, if someone wasnt using that type and that special function, they just wouldn't know about.
 So I wanted to implement one from scractch and writing things in scrach just feels very freeing in Odin.
 "What I cannot create, I cannot understand" - Richard Feinmann
+
+
+---
+this Project morphed into a yaml parser lol, so if you go back far enough you will find the lru cache implementation at some point
